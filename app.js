@@ -19,7 +19,7 @@ app.configure('development', function(){
 // General Routes
 app.get('/', function(req, res){
   res.render('index', {
-    title: 'TCGDraft.com'
+    title: 'Testing!'
   });
 });
 
